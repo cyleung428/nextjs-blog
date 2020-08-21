@@ -27,7 +27,6 @@ export default function Home({ allPostsData }) {
             Hello, I’m <b>Ching Yin</b>. I’m currently a year 3 colleague
             studying CS in CityU. I share my news recently on this blog. If you
             are interested with me, you can contact me on{" "}
-            <a href="https://www.instagram.com/cyleungyo/">Instagram</a> or{" "}
             <a href="https://www.linkedin.com/in/cy-leung-139966198/">
               LinkedIn
             </a>
