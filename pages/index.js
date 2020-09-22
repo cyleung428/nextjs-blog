@@ -20,13 +20,12 @@ export default function Home({ allPostsData }) {
       <script src="/prism.js"></script>
       <Layout home>
         <Head>
-          <title>Ching Yin's Blog</title>
+          <title>chingyin's Blog</title>
         </Head>
         <section className={utilStyles.headingMd}>
           <p>
-            Hello, I’m <b>Ching Yin</b>. I’m currently a year 3 colleague
-            studying CS in CityU. I share my news recently on this blog. If you
-            are interested with me, you can contact me on{" "}
+            Hello, I’m <b>Ching Yin</b>. I’m a CS student in CityU. I share my news recently on this blog. If you
+            are interested with me, you can contact me through{" "}
             <a href="https://www.linkedin.com/in/cy-leung-139966198/">
               LinkedIn
             </a>
